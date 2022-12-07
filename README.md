@@ -7,3 +7,5 @@ mas resolvi juntar o útil ao agradável e criar um ciclo de testes automatizado
 ## Onde estão os códigos?
 - O **código fonte** da calculadora está na branch <a href="https://github.com/FrancoRoldao/Calculadora/tree/master">master</a>
 - O **ciclo de testes** com cypress está na branch <a href="https://github.com/FrancoRoldao/Calculadora/tree/main">main</a>
+- Acesse <a href="https://github.com/FrancoRoldao/Calculadora/blob/main/README.md">aqui</a>, que eu explico como você consegue rodar o **ciclo de teste** que criei, no cypress!
+
