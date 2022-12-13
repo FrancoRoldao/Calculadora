@@ -41,7 +41,21 @@ _`NPX CYPRESS OPEN`_   (aguarde alguns instantes até abrir)
 >```
 
 ##### <img src="https://cdn-icons-png.flaticon.com/512/3840/3840773.png" weight="20px" height="20px"></img> Agora bora criar os ´specs´ (são os arquivos dos testes em si, para conseguir rodar os ciclos da calculadora que criei):
-1 - Acesse a pasta 
+- Com o projeto aberto no VS Code:
+
+**1 -** Clique na pasta `cypress > integration`
+
+**2 -** Dentro da pasta integration selecionada, crie um arquivo chamado "`operacoesMatematicas.spec.js`" 
+
+**3 -** Ainda com a pasta integration selecionada, crie outro arquivo chamado "`funcionalidadesGerais.spec.js`" 
+
+**4 -** <a href="https://github.com/FrancoRoldao/Calculadora/blob/main/cypress/integration/operacoesMatematicas.spec.js">Acesse aqui</a> copie todo o código, e cole no arquivo "`operacoesMatematicas.spec.js`" que você criou no VS Code (não esqueça de salvar as alterações)
+
+**5 -** <a href="https://github.com/FrancoRoldao/Calculadora/blob/main/cypress/integration/operacoesMatematicas.spec.js">Acesse aqui</a> copie todo o código, e cole no arquivo "`funcionalidadesGerais.spec.js`" que você criou no VS Code (não esqueça de salvar as alterações)
+
+**6 -**  Agora basta certificar de que está tudo salvo no VS Code > abrir o CMD e digitar o comando a seguir: ` npm run cypress:open`
+
+**7 -**  Com o Cypress Test Runner aberto, clique em: `Run 2 integration specs` ou clique em cada spec separadamente. 
 
 
 
@@ -50,7 +64,8 @@ _`NPX CYPRESS OPEN`_   (aguarde alguns instantes até abrir)
 
 
 
-<img src="https://imagensemoldes.com.br/wp-content/uploads/2020/07/Parab%C3%A9ns-PNG-1280x720.png" weight="200px" height="200px"></img>
+
+<img src="https://imagensemoldes.com.br/wp-content/uploads/2020/07/Parab%C3%A9ns-PNG-1280x720.png" weight="200px" height="200px"></img> _***Agora você pode rodar os testes automatizados da minha calculadora direto do seu PC, e conferir tudo o que preparei!***_
 
 
 
