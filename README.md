@@ -5,7 +5,7 @@ Ao criar essa <a href="https://francoroldao.github.io/Calculadora/">calculadora<
 mas resolvi juntar o útil ao agradável e criar um ciclo de testes automatizados para a minha calculadora, utilizando parte dos meus conhecimentos adquiridos durante o curso básico de testes automatizados com cypress!
 
 ## Onde estão os códigos?
-- O **código fonte** da calculadora está na branch <a href="https://github.com/FrancoRoldao/Calculadora/tree/master">master</a>
-- O **ciclo de testes** com cypress está na branch <a href="https://github.com/FrancoRoldao/Calculadora/tree/main">main</a>
+- O **código fonte** da calculadora está na branch <a href="https://github.com/FrancoRoldao/Calculadora/tree/master">`master`</a>
+- O **ciclo de testes** com cypress está na branch <a href="https://github.com/FrancoRoldao/Calculadora/tree/main">`main`</a>
 - Acesse <a href="https://github.com/FrancoRoldao/Calculadora/blob/main/README.md">aqui</a>, que eu explico como você consegue rodar o **ciclo de teste** que criei, no cypress!
 
