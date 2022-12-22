@@ -1,6 +1,8 @@
 # Ciclo de Testes 
 
-<img src="https://gifs.eco.br/wp-content/uploads/2022/08/gifs-de-construcao-3.gif"></img>
+<img src="https://miro.medium.com/max/1200/1*HuEr6-Y7nXOTGJoyZf0Yew.png" weight="150" height="150" align="center"></img>
+
+**Obs:** É importante que siga o passo a passo abaixo, se somente clonar o projeto, não conseguirá rodar os testes.
 
 ## O que é necessário para executar?
 ##### <img src="https://cdn-icons-png.flaticon.com/512/3840/3840653.png" weight="20px" height="20px"></img> Antes de tudo, instale:
