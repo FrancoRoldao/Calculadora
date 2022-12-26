@@ -21,7 +21,7 @@ _`npm init -y`_
 _`npm install cypress@9.5.1 --save-dev`_  (lembrando que esse é o comando referente a instalaçao de uma versão especifica do cypress). Aguarde terminar a instalação e siga o próximo passo
 
 #####  <img src="https://cdn-icons-png.flaticon.com/512/3840/3840755.png" weight="20px" height="20px"></img> Agora que o cypress já está instalado, ainda no CMD, abra o test runner digitando o comando a seguir: 
-_`NPX CYPRESS OPEN`_   (aguarde alguns instantes até abrir)
+_`npx cypress open`_   (aguarde alguns instantes até abrir)
 
 #####  <img src="https://cdn-icons-png.flaticon.com/512/3840/3840771.png" weight="20px" height="20px"></img> Agora acesse o VS Code e abra a pasta do seu projeto aquela que você criou no inicio) e:
 >- Acesse o arquivo _`package.json`_ e adicione o seguinte código na sessão de "scripts":
